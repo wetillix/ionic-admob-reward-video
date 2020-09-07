@@ -1,5 +1,5 @@
 # IonicAdmob
-Application de régie publicitaire dans le cadre de l'article https://blog.vyconsulting-group.com/integrez-la-publicite-video-dans-une-application-ionic-cordova-admob-reward-video
+Application de régie publicitaire dans le cadre de l'article https://blog.vyconsulting-group.com/comment-integrer-une-regie-publicitaire-dans-une-application-ionic-cordova-admob-reward-video
 
 ## Exécutez ces commandes dans l'ordre
 
