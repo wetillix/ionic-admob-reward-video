@@ -10,9 +10,9 @@ import { Platform } from "@ionic/angular";
 })
 export class AdmobService {
   RewardVideoConfig: AdMobFreeRewardVideoConfig = {
-    isTesting: true, // Supprimer cette ligne une fois en production
+    isTesting: true, // Supprimez cette ligne une fois en production
     autoShow: false,
-    // id: "ca-app-pub-3940256099942544/5224354917", // ID d'une reward video que vous devez créer
+    // id: "ca-app-pub-3940256099942544/5224354917", // ID d'une reward video que vous devez créer. Décommentez cette ligne une fois en production.
   };
   constructor(private admobFree: AdMobFree, private platform: Platform) {
     this.platform.ready().then(() => {
